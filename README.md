@@ -7,7 +7,7 @@ Author: Yabudullah Ahmed Bakhtiar. The **3D-printable hardware** of **OpenProto 
 
 This document describes OpenProto in enough detail for an engineer to understand and reproduce the ideas. It is published as a dated public record of the ideas below; describing software here does not release its source code. Status: working prototype in progress (hand-wired main board, 3D-printed module housings).
 
-![First 3D-printed OpenProto module housings, 2026-11-03: a small sensor module, a servo module (MG90S) with a Technic-hole hub and mount, an ultrasonic distance module, and a module housing with its USB-C port and Technic-grid holes](images/prototype-modules-2026-11-03.webp)
+![First 3D-printed OpenProto module housings, 2026-11-03: a camera module, a servo module (MG90S) with a Technic-hole hub and mount, an ultrasonic distance module, and a module housing with its USB-C port and Technic-grid holes](images/prototype-modules-2026-11-03.webp)
 
 *First printed module housings (photo taken 2026-11-03).*
 
